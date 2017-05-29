@@ -1,0 +1,9 @@
+{
+    "name": "RTD",
+    "country": "US",
+    "website": "http://www.rtd-denver.com",
+    "data": {
+        "type": "GTFS",
+        "link": "http://www.rtd-denver.com/GoogleFeeder/google_transit.zip"
+    }
+}

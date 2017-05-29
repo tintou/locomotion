@@ -1,0 +1,12 @@
+[Desktop Entry]
+Version=1.0
+Name=Locomotion
+Comment=A simple public transportation application
+Exec=com.github.tintou.locomotion
+Icon=com.github.tintou.locomotion
+Terminal=false
+Type=Application
+StartupNotify=true
+Categories=GNOME;GTK;Utility;
+Keywords=Maps;Bus;Train;Metro;Subway;Trolley;Route;
+X-Geoclue-Reason=Allows your location to be shown on the map.
